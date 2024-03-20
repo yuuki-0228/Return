@@ -1,0 +1,20 @@
+{
+  "Base": {
+    "h": 104.0,
+    "w": 78.0
+  },
+  "Disp": {
+    "h": 26.0,
+    "w": 26.0
+  },
+  "FilePath": "Data\\Sprite\\Scene\\GameMain\\Bullet\\PotionBullet.json",
+  "IsLock": false,
+  "LocalPosition": 8,
+  "Scene": [
+    "None"
+  ],
+  "Stride": {
+    "h": 26.0,
+    "w": 26.0
+  }
+}

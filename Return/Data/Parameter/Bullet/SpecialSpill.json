@@ -1,0 +1,13 @@
+{
+  "BulletTag": "Spill",
+  "MoveSpeed": 1.2,
+  "Attack": 2.0,
+  "PlayerDamage": 2,
+  "Shield": 10,
+  "ImageNo": 2,
+  "DeleteColor": {
+    "R": 0.9,
+    "G": 0.1,
+    "B": 0.0
+  }
+}

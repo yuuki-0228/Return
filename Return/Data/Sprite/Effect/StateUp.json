@@ -1,0 +1,20 @@
+{
+  "Base": {
+    "h": 120.0,
+    "w": 660.0
+  },
+  "Disp": {
+    "h": 60.0,
+    "w": 30.0
+  },
+  "FilePath": "Data\\Sprite\\Effect\\StateUp.json",
+  "IsLock": false,
+  "LocalPosition": 1,
+  "Scene": [
+    "None"
+  ],
+  "Stride": {
+    "h": 120.0,
+    "w": 60.0
+  }
+}

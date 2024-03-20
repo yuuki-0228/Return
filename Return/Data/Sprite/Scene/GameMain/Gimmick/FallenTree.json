@@ -1,0 +1,20 @@
+{
+  "Base": {
+    "h": 34.0,
+    "w": 98.0
+  },
+  "Disp": {
+    "h": 34.0,
+    "w": 98.0
+  },
+  "FilePath": "Data\\Sprite\\Scene\\GameMain\\Gimmick\\FallenTree.json",
+  "IsLock": false,
+  "LocalPosition": 0,
+  "Scene": [
+    "None"
+  ],
+  "Stride": {
+    "h": 34.0,
+    "w": 98.0
+  }
+}

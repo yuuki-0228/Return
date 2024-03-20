@@ -1,0 +1,14 @@
+{
+  "BulletTag": "BigPotion",
+  "SkillName": "DeadlyPoison",
+  "MoveSpeed": 0.8,
+  "Attack": 2.0,
+  "PlayerDamage": 2,
+  "Shield": 15,
+  "ImageNo": 3,
+  "DeleteColor": {
+    "R": 0.69,
+    "G": 0.18,
+    "B": 0.52
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "Base": {
+    "h": 12.0,
+    "w": 576.0
+  },
+  "Disp": {
+    "h": 12.0,
+    "w": 576.0
+  },
+  "FilePath": "Data\\Sprite\\Scene\\GameMain\\Stamina\\StaminaFrame.json",
+  "IsLock": false,
+  "LocalPosition": 8,
+  "Scene": [
+    "None"
+  ],
+  "Stride": {
+    "h": 12.0,
+    "w": 576.0
+  }
+}

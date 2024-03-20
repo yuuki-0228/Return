@@ -1,0 +1,52 @@
+{
+  "Base": {
+    "h": 112.0,
+    "w": 94.0
+  },
+  "Disp": {
+    "h": 28.0,
+    "w": 94.0
+  },
+  "FilePath": "Data\\Sprite\\Scene\\Loading\\LoadDot.json",
+  "IsLock": false,
+  "Load": {
+    "0": {
+      "Color": {
+        "A": 1.0,
+        "B": 1.0,
+        "G": 1.0,
+        "R": 1.0
+      },
+      "Transform": {
+        "Position": {
+          "x": 1176.0,
+          "y": 682.0,
+          "z": 0.0
+        },
+        "Rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "Scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      "UIAnimation": {
+        "What": "None",
+        "When": "None"
+      }
+    },
+    "Num": 1
+  },
+  "LocalPosition": 0,
+  "Scene": [
+    "Load"
+  ],
+  "Stride": {
+    "h": 28.0,
+    "w": 94.0
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "Base": {
+    "h": 34.0,
+    "w": 102.0
+  },
+  "Disp": {
+    "h": 34.0,
+    "w": 34.0
+  },
+  "FilePath": "Data\\Sprite\\Scene\\GameMain\\Gimmick\\Barrel.json",
+  "IsLock": false,
+  "LocalPosition": 8,
+  "Scene": [
+    "None"
+  ],
+  "Stride": {
+    "h": 34.0,
+    "w": 34.0
+  }
+}

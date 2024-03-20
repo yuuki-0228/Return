@@ -1,0 +1,37 @@
+{
+  "TypeName": "Ghost",
+  "HP": 50,
+  "Action": [
+    {
+      "Type": "Attack",
+      "Interval": 2.0,
+      "BulletAddTime": 0.1,
+      "ShotNum": 4,
+      "BulletName": "Normal"
+    },
+    {
+      "Type": "Attack",
+      "Interval": 0.5,
+      "BulletAddTime": 0.0,
+      "ShotNum": 2,
+      "BulletName": "Normal"
+    },
+    {
+      "Type": "Loop",
+      "Go": 0,
+      "LoopNum": 5
+    },
+    {
+      "Type": "Wait",
+      "Time": 5.0,
+      "BulletAddTime": 0.5
+    },
+    {
+      "Type": "Attack",
+      "Interval": 1.0,
+      "BulletAddTime": 0.0,
+      "ShotNum": 1,
+      "BulletName": "Sharp"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "Base": {
+    "h": 64.0,
+    "w": 300.0
+  },
+  "Disp": {
+    "h": 64.0,
+    "w": 300.0
+  },
+  "FilePath": "Data\\Sprite\\Scene\\Title\\Logo.json",
+  "IsLock": false,
+  "LocalPosition": 0,
+  "Scene": [
+    "Title"
+  ],
+  "Stride": {
+    "h": 64.0,
+    "w": 300.0
+  },
+  "Title": {
+    "0": {
+      "Color": {
+        "A": 1.0,
+        "B": 0.9999899864196777,
+        "G": 0.9999899864196777,
+        "R": 1.0
+      },
+      "Transform": {
+        "Position": {
+          "x": 342.0,
+          "y": 196.0,
+          "z": 2.0
+        },
+        "Rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "Scale": {
+          "x": 2.0,
+          "y": 2.0,
+          "z": 2.0
+        }
+      },
+      "UIAnimation": {
+        "What": "None",
+        "When": "None"
+      }
+    },
+    "Num": 1
+  }
+}

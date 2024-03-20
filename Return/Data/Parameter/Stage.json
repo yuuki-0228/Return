@@ -1,0 +1,437 @@
+{
+  "ATypeApartment": [
+    {
+      "Floar": [
+        null,
+        null,
+        {
+          "0": null,
+          "1": "Room",
+          "10": "Room",
+          "11": "Shop",
+          "2": null,
+          "3": "Shop",
+          "4": "Room",
+          "5": null,
+          "6": null,
+          "7": null,
+          "8": "Shop",
+          "9": null
+        },
+        null,
+        {
+          "0": "Shop",
+          "1": null,
+          "10": null,
+          "11": "Room",
+          "2": "Room",
+          "3": null,
+          "4": "Shop",
+          "5": null,
+          "6": null,
+          "7": "Room",
+          "8": "Shop",
+          "9": null
+        },
+        null,
+        null,
+        null,
+        {
+          "0": "Shop",
+          "1": null,
+          "10": null,
+          "11": "Shop",
+          "2": null,
+          "3": null,
+          "4": "Room",
+          "5": "Room",
+          "6": null,
+          "7": "Room",
+          "8": null,
+          "9": "Shop"
+        },
+        null,
+        null
+      ],
+      "Position": {
+        "x": -80.0,
+        "z": 50.0
+      }
+    },
+    {
+      "Floar": [
+        null,
+        {
+          "0": "Room",
+          "1": null,
+          "10": null,
+          "11": "Shop",
+          "2": null,
+          "3": "Shop",
+          "4": null,
+          "5": null,
+          "6": null,
+          "7": "Room",
+          "8": null,
+          "9": "Shop"
+        },
+        {
+          "0": null,
+          "1": "Room",
+          "10": null,
+          "11": "Room",
+          "2": null,
+          "3": null,
+          "4": null,
+          "5": null,
+          "6": null,
+          "7": null,
+          "8": null,
+          "9": null
+        },
+        null,
+        {
+          "0": "Shop",
+          "1": null,
+          "10": null,
+          "11": null,
+          "2": null,
+          "3": null,
+          "4": null,
+          "5": null,
+          "6": null,
+          "7": null,
+          "8": "Room",
+          "9": null
+        },
+        null,
+        null,
+        null,
+        {
+          "0": null,
+          "1": "Room",
+          "10": "Shop",
+          "11": "Room",
+          "2": null,
+          "3": "Room",
+          "4": "Shop",
+          "5": null,
+          "6": "Room",
+          "7": "Shop",
+          "8": null,
+          "9": null
+        },
+        null,
+        {
+          "0": null,
+          "1": null,
+          "10": "Room",
+          "11": null,
+          "2": "Shop",
+          "3": null,
+          "4": null,
+          "5": null,
+          "6": null,
+          "7": null,
+          "8": "Room",
+          "9": "Room"
+        },
+        null,
+        null,
+        {
+          "0": null,
+          "1": "Shop",
+          "10": null,
+          "11": "Room",
+          "2": null,
+          "3": null,
+          "4": null,
+          "5": null,
+          "6": "Shop",
+          "7": null,
+          "8": "Shop",
+          "9": null
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "0": null,
+          "1": "Room",
+          "10": null,
+          "11": "Room",
+          "2": null,
+          "3": null,
+          "4": "Room",
+          "5": null,
+          "6": null,
+          "7": "Room",
+          "8": "Room",
+          "9": null
+        },
+        null,
+        null,
+        null,
+        {
+          "0": "Room",
+          "1": "Shop",
+          "10": "Room",
+          "11": null,
+          "2": null,
+          "3": null,
+          "4": "Shop",
+          "5": null,
+          "6": null,
+          "7": "Shop",
+          "8": "Room",
+          "9": null
+        },
+        null,
+        null,
+        {
+          "0": "Room",
+          "1": "Room",
+          "10": null,
+          "11": "Room",
+          "2": "Room",
+          "3": null,
+          "4": null,
+          "5": null,
+          "6": "Room",
+          "7": "Shop",
+          "8": null,
+          "9": null
+        },
+        {
+          "0": null,
+          "1": "Shop",
+          "10": null,
+          "11": "Room",
+          "2": null,
+          "3": null,
+          "4": null,
+          "5": "Shop",
+          "6": null,
+          "7": null,
+          "8": null,
+          "9": null
+        }
+      ],
+      "Position": {
+        "x": 150.0,
+        "z": 350.0
+      }
+    }
+  ],
+  "BTypeApartment": [
+    {
+      "Floar": [
+        null,
+        null,
+        {
+          "0": null,
+          "1": "Room",
+          "10": "Room",
+          "11": null,
+          "12": "Room",
+          "13": null,
+          "14": "Shop",
+          "15": null,
+          "2": null,
+          "3": null,
+          "4": "Shop",
+          "5": null,
+          "6": null,
+          "7": "Shop",
+          "8": null,
+          "9": null
+        },
+        null
+      ],
+      "Position": {
+        "x": 300.0,
+        "z": -300.0
+      }
+    },
+    {
+      "Floar": [
+        null,
+        {
+          "0": "Room",
+          "1": null,
+          "10": "Shop",
+          "11": "Room",
+          "12": null,
+          "13": null,
+          "14": "Room",
+          "15": "Shop",
+          "2": null,
+          "3": "Shop",
+          "4": null,
+          "5": "Room",
+          "6": "Shop",
+          "7": null,
+          "8": null,
+          "9": null
+        },
+        null,
+        {
+          "0": null,
+          "1": "Shop",
+          "10": null,
+          "11": null,
+          "12": "Shop",
+          "13": "Room",
+          "14": null,
+          "15": "Shop",
+          "2": null,
+          "3": null,
+          "4": "Shop",
+          "5": "Room",
+          "6": "Room",
+          "7": null,
+          "8": null,
+          "9": "Room"
+        },
+        null,
+        null,
+        null,
+        {
+          "0": "Room",
+          "1": null,
+          "10": "Room",
+          "11": null,
+          "12": null,
+          "13": "Shop",
+          "14": "Shop",
+          "15": null,
+          "2": null,
+          "3": "Shop",
+          "4": null,
+          "5": "Room",
+          "6": null,
+          "7": "Shop",
+          "8": null,
+          "9": null
+        },
+        null,
+        null,
+        null,
+        {
+          "0": "Shop",
+          "1": null,
+          "10": null,
+          "11": null,
+          "12": null,
+          "13": "Shop",
+          "14": "Room",
+          "15": null,
+          "2": null,
+          "3": "Room",
+          "4": null,
+          "5": null,
+          "6": "Shop",
+          "7": null,
+          "8": null,
+          "9": null
+        },
+        {
+          "0": null,
+          "1": null,
+          "10": null,
+          "11": null,
+          "12": null,
+          "13": "Room",
+          "14": null,
+          "15": null,
+          "2": null,
+          "3": null,
+          "4": null,
+          "5": "Room",
+          "6": null,
+          "7": null,
+          "8": null,
+          "9": null
+        },
+        null,
+        null,
+        {
+          "0": "Shop",
+          "1": null,
+          "10": null,
+          "11": null,
+          "12": null,
+          "13": "Shop",
+          "14": null,
+          "15": null,
+          "2": null,
+          "3": null,
+          "4": null,
+          "5": null,
+          "6": null,
+          "7": null,
+          "8": null,
+          "9": null
+        },
+        {
+          "0": "Room",
+          "1": null,
+          "10": "Room",
+          "11": null,
+          "12": "Shop",
+          "13": null,
+          "14": "Shop",
+          "15": "Room",
+          "2": "Shop",
+          "3": null,
+          "4": null,
+          "5": "Shop",
+          "6": null,
+          "7": "Room",
+          "8": null,
+          "9": null
+        }
+      ],
+      "Position": {
+        "x": -200.0,
+        "z": -150.0
+      }
+    }
+  ],
+  "Island": [
+    {
+      "Position": {
+        "x": 0.0,
+        "y": 350.0,
+        "z": 0.0
+      },
+      "What": "House"
+    },
+    {
+      "Position": {
+        "x": -120.0,
+        "y": 400.0,
+        "z": 300.0
+      },
+      "What": "Shop"
+    },
+    {
+      "Position": {
+        "x": 300.0,
+        "y": 500.0,
+        "z": 80.0
+      },
+      "What": "House"
+    },
+    {
+      "Position": {
+        "x": -250.0,
+        "y": 450.0,
+        "z": -250.0
+      },
+      "What": "Shop"
+    }
+  ]
+}

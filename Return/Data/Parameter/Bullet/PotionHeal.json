@@ -1,0 +1,14 @@
+{
+  "BulletTag": "GoodPotion",
+  "SkillName": "Heal",
+  "MoveSpeed": 0.5,
+  "Attack": 1.0,
+  "PlayerDamage": 1,
+  "Shield": 4,
+  "ImageNo": 0,
+  "DeleteColor": {
+    "R": 1.0,
+    "G": 0.0,
+    "B": 0.0
+  }
+}

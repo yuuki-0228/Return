@@ -1,0 +1,71 @@
+{
+  "ROTATION_SPEED": [
+    "回転速度( 度 )",
+    10.0
+  ],
+  "NORMAL_STAGE_RADIUS_DISTANCE": [
+    "ステージの半径から最大離れる距離",
+    15.0
+  ],
+  "STRONG_STAGE_RADIUS_DISTANCE": [
+    "ステージの半径から最大離れる距離",
+    20.0
+  ],
+  "KEEP_AWAY_SPEED": [
+    "離れさせていく速度",
+    0.2
+  ],
+  "ROTATION_MOVE_SPEED_USERATE": [
+    "回転移動の時のスピードの使用率( 0.0f ~ 1.0f )",
+    0.5
+  ],
+  "TIMINGBAR_DISTANCE": [
+    "タイミングバーに表示させる距離",
+    290.0
+  ],
+  "SAME_BULLET_DELETE_DISTANCE": [
+    "同じ弾通し重なっていると判定する距離",
+    2.0
+  ],
+  "SHIELD_ALPHA": [
+    "シールドのアルファ値",
+    0.5
+  ],
+  "SHIELD_ATTACK_SPEED_DOWN": [
+    "シールドに攻撃時の移動速度の減少割合( Speed /= 〇 )",
+    1.5
+  ],
+  "SPEED_DONW_MAX": [
+    "移動速度の減少の上限",
+    0.3
+  ],
+  "WEAK_ATTACK_DELETE_CNT": [
+    "弱い攻撃が何回連続でされたら削除するか",
+    2
+  ],
+  "EFFECT_ANIMATION_SPEED": [
+    "エフェクトのアニメーション速度",
+    5
+  ],
+  "LEVEL_POWER": [
+    "レベルごとの必要な攻撃力の倍率( Lv1, Lv2, Lv3, Lv4 )",
+    1.0,
+    2.0,
+    5.0,
+    10.0
+  ],
+  "SPEED_MAGNIFICATION": [
+    "移動の増やす倍率リスト( Spped *= 〇 )( 無し, 強, 通常, 弱 )",
+    0.00,
+    1.01,
+    1.10,
+    0.70
+  ],
+  "ATTACK_MAGNIFICATION": [
+    "攻撃力の増やす倍率リスト( Attack *= 〇 )( 無し, 強, 通常, 弱 )",
+    0.00,
+    1.20,
+    1.10,
+    0.50
+  ]
+}

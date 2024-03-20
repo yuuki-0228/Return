@@ -1,0 +1,20 @@
+{
+  "Base": {
+    "h": 102.0,
+    "w": 38.0
+  },
+  "Disp": {
+    "h": 34.0,
+    "w": 19.0
+  },
+  "FilePath": "Data\\Sprite\\Scene\\GameMain\\TimingBar\\MoveIcon.json",
+  "IsLock": false,
+  "LocalPosition": 8,
+  "Scene": [
+    "None"
+  ],
+  "Stride": {
+    "h": 34.0,
+    "w": 19.0
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "PotionType": "Poison",
+  "DeleteTime": 3.0,
+  "EffectTime": 0.5,
+  "EffectValue": 1.0,
+  "EffectColor": {
+    "R": 1.0,
+    "G": 0.0,
+    "B": 1.0
+  }
+}

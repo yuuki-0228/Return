@@ -1,0 +1,20 @@
+{
+  "Base": {
+    "h": 233.0,
+    "w": 288.0
+  },
+  "Disp": {
+    "h": 233.0,
+    "w": 288.0
+  },
+  "FilePath": "Data\\Sprite\\Scene\\GameMain\\Back\\Signboard.json",
+  "IsLock": false,
+  "LocalPosition": 0,
+  "Scene": [
+    "None"
+  ],
+  "Stride": {
+    "h": 233.0,
+    "w": 288.0
+  }
+}

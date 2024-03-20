@@ -1,0 +1,11 @@
+{
+  "PotionType": "Rest",
+  "DeleteTime": 5.0,
+  "EffectTime": 0.25,
+  "EffectValue": 1.0,
+  "EffectColor": {
+    "R": 0.2,
+    "G": 0.8,
+    "B": 1.0
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "Base": {
+    "h": 80.0,
+    "w": 96.0
+  },
+  "Disp": {
+    "h": 80.0,
+    "w": 96.0
+  },
+  "FilePath": "Data\\Sprite\\Scene\\GameMain\\Gimmick\\BigGrass.json",
+  "IsLock": false,
+  "LocalPosition": 0,
+  "Scene": [
+    "None"
+  ],
+  "Stride": {
+    "h": 80.0,
+    "w": 96.0
+  }
+}

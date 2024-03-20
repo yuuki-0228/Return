@@ -1,0 +1,12 @@
+{
+  "BulletTag": "Normal",
+  "MoveSpeed": 1.0,
+  "Attack": 1.0,
+  "PlayerDamage": 1,
+  "ImageNo": 0,
+  "DeleteColor": {
+    "R": 0.2,
+    "G": 0.8,
+    "B": 1.0
+  }
+}

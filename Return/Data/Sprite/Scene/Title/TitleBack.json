@@ -1,0 +1,65 @@
+{
+  "Base": {
+    "h": 1086.0,
+    "w": 1920.0
+  },
+  "Disp": {
+    "h": 720.0,
+    "w": 1280.0
+  },
+  "FilePath": "Data\\Sprite\\Scene\\Title\\TitleBack.json",
+  "IsLock": false,
+  "LocalPosition": 0,
+  "Scene": [
+    "Title"
+  ],
+  "Stride": {
+    "h": 1086.0,
+    "w": 1920.0
+  },
+  "Title": {
+    "0": {
+      "Color": {
+        "A": 1.0,
+        "B": 1.0,
+        "G": 1.0,
+        "R": 1.0
+      },
+      "Transform": {
+        "Position": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 1.0
+        },
+        "Rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "Scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      "UIAnimation": {
+        "EndMessage": "",
+        "IsLoop": true,
+        "PlayMax": 0,
+        "Scroll": {
+          "IsPlay": {
+            "x": true,
+            "y": false
+          },
+          "Speed": {
+            "x": 0.0005000000237487257,
+            "y": 0.0
+          }
+        },
+        "What": "Scroll",
+        "When": "Always"
+      }
+    },
+    "Num": 1
+  }
+}

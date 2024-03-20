@@ -1,0 +1,20 @@
+{
+  "Base": {
+    "h": 34.0,
+    "w": 578.0
+  },
+  "Disp": {
+    "h": 34.0,
+    "w": 578.0
+  },
+  "FilePath": "Data\\Sprite\\Scene\\GameMain\\TimingBar\\TimingBar.json",
+  "IsLock": false,
+  "LocalPosition": 8,
+  "Scene": [
+    "None"
+  ],
+  "Stride": {
+    "h": 34.0,
+    "w": 578.0
+  }
+}
