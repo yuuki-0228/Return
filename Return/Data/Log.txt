@@ -1,108 +1,148 @@
-[2023/11/12 17:13] >> App launch
+[2024/5/11 16:7] >> App launch
 
-[17:13:19] >> DirectX11 デバイス作成 : 成功
-[17:13:19] >> 乱数の初期化 : 成功
-[17:13:19] >> 入力クラスの初期化 : 成功
-[17:13:19] >> ウィンドウテキストの初期化 : 成功
-[17:13:19] >> Imguiの初期化 : 成功
-[17:13:19] >> Data\Sprite\Scene\Loading\LoadBase.png 読み込み : 成功
-[17:13:19] >> Data\Sprite\Scene\Loading\LoadText.png 読み込み : 成功
-[17:13:19] >> Data\Sprite\Scene\Loading\LoadDot.png 読み込み : 成功
-[17:13:19] >> Data\Sprite\Scene\Loading\LoadUFO.png 読み込み : 成功
-[17:13:19] >> ------ サウンド読み込み開始 -------
-[17:13:20] >> Data\Sound\BGM\12-13.mp3 読み込み : 成功
-[17:13:20] >> Data\Sound\BGM\13-15.mp3 読み込み : 成功
-[17:13:20] >> Data\Sound\BGM\15-18.mp3 読み込み : 成功
-[17:13:20] >> Data\Sound\BGM\18-21.mp3 読み込み : 成功
-[17:13:20] >> Data\Sound\BGM\GameClear.mp3 読み込み : 成功
-[17:13:20] >> Data\Sound\BGM\GameMain.mp3 読み込み : 成功
-[17:13:20] >> Data\Sound\BGM\GameOver.mp3 読み込み : 成功
-[17:13:20] >> Data\Sound\BGM\Title.mp3 読み込み : 成功
-[17:13:21] >> Data\Sound\SE\Damage.mp3 読み込み : 成功
-[17:13:22] >> Data\Sound\SE\HeavyAttack.mp3 読み込み : 成功
-[17:13:22] >> Data\Sound\SE\ImguiSE.mp3 読み込み : 成功
-[17:13:23] >> Data\Sound\SE\LvUp.mp3 読み込み : 成功
-[17:13:23] >> Data\Sound\SE\NoneAttack.mp3 読み込み : 成功
-[17:13:24] >> Data\Sound\SE\NormalAttack.mp3 読み込み : 成功
-[17:13:25] >> Data\Sound\SE\PlayerDamage.mp3 読み込み : 成功
-[17:13:26] >> Data\Sound\SE\ShieldAttack.mp3 読み込み : 成功
-[17:13:26] >> Data\Sound\SE\ShieldBreak.mp3 読み込み : 成功
-[17:13:26] >> Data\Sound\SE\ShieldLvDown.mp3 読み込み : 成功
-[17:13:27] >> Data\Sound\SE\WeakAttack.mp3 読み込み : 成功
-[17:13:27] >> ------ サウンド読み込み終了 -------
-[17:13:27] >> ------ スレッドロード開始 ------
-[17:13:27] >> ------ スプライト読み込み開始 ------
-[17:13:27] >> Data\Sprite\Collision\BoxColl2D.png 読み込み : 成功
-[17:13:28] >> Data\Sprite\Collision\PointColl2D.png 読み込み : 成功
-[17:13:28] >> Data\Sprite\Collision\SphereColl2D.png 読み込み : 成功
-[17:13:28] >> Data\Sprite\Effect\BulletDelete.png 読み込み : 成功
-[17:13:28] >> Data\Sprite\Effect\BulletLv1.png 読み込み : 成功
-[17:13:28] >> Data\Sprite\Effect\BulletLv2.png 読み込み : 成功
-[17:13:28] >> Data\Sprite\Effect\BulletLv3.png 読み込み : 成功
-[17:13:28] >> Data\Sprite\Effect\BulletLv4.png 読み込み : 成功
-[17:13:28] >> Data\Sprite\Effect\HeavyAttackEffect.png 読み込み : 成功
-[17:13:28] >> Data\Sprite\Effect\HeavyHitEffect.png 読み込み : 成功
-[17:13:28] >> Data\Sprite\Effect\NoneAttackEffect.png 読み込み : 成功
-[17:13:28] >> Data\Sprite\Effect\NormalAttackEffect.png 読み込み : 成功
-[17:13:28] >> Data\Sprite\Effect\NormalHitEffect.png 読み込み : 成功
-[17:13:28] >> Data\Sprite\Effect\Potion.png 読み込み : 成功
-[17:13:28] >> Data\Sprite\Effect\PowerUp.png 読み込み : 成功
-[17:13:28] >> Data\Sprite\Effect\ShieldLv1.png 読み込み : 成功
-[17:13:28] >> Data\Sprite\Effect\ShieldLv2.png 読み込み : 成功
-[17:13:29] >> Data\Sprite\Effect\ShieldLv3.png 読み込み : 成功
-[17:13:29] >> Data\Sprite\Effect\ShieldLv4.png 読み込み : 成功
-[17:13:29] >> Data\Sprite\Effect\StateDown.png 読み込み : 成功
-[17:13:29] >> Data\Sprite\Effect\StateUp.png 読み込み : 成功
-[17:13:29] >> Data\Sprite\Effect\WeakAttackEffect.png 読み込み : 成功
-[17:13:29] >> Data\Sprite\Effect\WeakHitEffect.png 読み込み : 成功
-[17:13:29] >> Data\Sprite\Fade\Fade.png 読み込み : 成功
-[17:13:29] >> Data\Sprite\Fade\UFO.png 読み込み : 成功
-[17:13:29] >> Data\Sprite\Mask\HpMask.png 読み込み : 成功
-[17:13:29] >> Data\Sprite\RoundShadow.png 読み込み : 成功
-[17:13:29] >> Data\Sprite\Scene\Edtor\BugButton.png 読み込み : 成功
-[17:13:29] >> Data\Sprite\Scene\Edtor\EdtorGrid.png 読み込み : 成功
-[17:13:29] >> Data\Sprite\Scene\Edtor\HitBox.png 読み込み : 成功
-[17:13:29] >> Data\Sprite\Scene\GameClear\GameClear.png 読み込み : 成功
-[17:13:30] >> Data\Sprite\Scene\GameMain\Back\Back.png 読み込み : 成功
-[17:13:30] >> Data\Sprite\Scene\GameMain\Back\Frame.png 読み込み : 成功
-[17:13:30] >> Data\Sprite\Scene\GameMain\Back\Signboard.png 読み込み : 成功
-[17:13:30] >> Data\Sprite\Scene\GameMain\Bullet\Bullet.png 読み込み : 成功
-[17:13:30] >> Data\Sprite\Scene\GameMain\Bullet\PotionBullet.png 読み込み : 成功
-[17:13:30] >> Data\Sprite\Scene\GameMain\Bullet\SpecialBullet.png 読み込み : 成功
-[17:13:30] >> Data\Sprite\Scene\GameMain\Enemy\Ghost.png 読み込み : 成功
-[17:13:30] >> Data\Sprite\Scene\GameMain\Gimmick\Barrel.png 読み込み : 成功
-[17:13:30] >> Data\Sprite\Scene\GameMain\Gimmick\BigDeadTree.png 読み込み : 成功
-[17:13:30] >> Data\Sprite\Scene\GameMain\Gimmick\BigGrass.png 読み込み : 成功
-[17:13:30] >> Data\Sprite\Scene\GameMain\Gimmick\BigTree.png 読み込み : 成功
-[17:13:30] >> Data\Sprite\Scene\GameMain\Gimmick\FallenTree.png 読み込み : 成功
-[17:13:30] >> Data\Sprite\Scene\GameMain\Gimmick\Ornaments.png 読み込み : 成功
-[17:13:30] >> Data\Sprite\Scene\GameMain\Gimmick\Pot.png 読み込み : 成功
-[17:13:30] >> Data\Sprite\Scene\GameMain\Gimmick\SmallGrass.png 読み込み : 成功
-[17:13:30] >> Data\Sprite\Scene\GameMain\Gimmick\SmallTree.png 読み込み : 成功
-[17:13:30] >> Data\Sprite\Scene\GameMain\Hp\HpBack.png 読み込み : 成功
-[17:13:31] >> Data\Sprite\Scene\GameMain\Hp\HpBar.png 読み込み : 成功
-[17:13:31] >> Data\Sprite\Scene\GameMain\Hp\HpBarFrame.png 読み込み : 成功
-[17:13:31] >> Data\Sprite\Scene\GameMain\Hp\HpFrame.png 読み込み : 成功
-[17:13:31] >> Data\Sprite\Scene\GameMain\Player\Player.png 読み込み : 成功
-[17:13:31] >> Data\Sprite\Scene\GameMain\Stamina\StaminaBack.png 読み込み : 成功
-[17:13:31] >> Data\Sprite\Scene\GameMain\Stamina\StaminaFrame.png 読み込み : 成功
-[17:13:31] >> Data\Sprite\Scene\GameMain\TimingBar\MoveIcon.png 読み込み : 成功
-[17:13:31] >> Data\Sprite\Scene\GameMain\TimingBar\TimingBar.png 読み込み : 成功
-[17:13:31] >> Data\Sprite\Scene\Loading\LoadBase.png 読み込み : 成功
-[17:13:31] >> Data\Sprite\Scene\Loading\LoadDot.png 読み込み : 成功
-[17:13:31] >> Data\Sprite\Scene\Loading\LoadText.png 読み込み : 成功
-[17:13:31] >> Data\Sprite\Scene\Loading\LoadUFO.png 読み込み : 成功
-[17:13:31] >> Data\Sprite\Scene\Title\Logo.png 読み込み : 成功
-[17:13:31] >> Data\Sprite\Scene\Title\TitleBack.png 読み込み : 成功
-[17:13:31] >> Data\Sprite\Scene\Title\TitleMoon.png 読み込み : 成功
-[17:13:31] >> Data\Sprite\WindowText\ascii.png 読み込み : 成功
-[17:13:31] >> ------ スプライト読み込み終了 ------
-[17:13:31] >> ------ エフェクト読み込み開始 ------
-[17:13:31] >> ------ エフェクト読み込み終了 ------
-[17:13:31] >> ------ フォント読み込み開始 ------
-[17:13:31] >> Data\Sprite\Font\NasuM.ttf 読み込み : 成功
-[17:13:31] >> Data\Sprite\Font\コーポレート・ロゴ ver2 Medium.otf 読み込み : 成功
-[17:13:31] >> ------ フォント読み込み終了 ------
-[17:13:31] >> ------ メッシュ読み込み開始 ------
-[17:13:32] >> Data\Mesh\Collision\Cylinder_c.x 読み込み : 成功
-[17:13:32] >> Data\Mesh\Collision\Sphere_c.x 読み込み : 成功
+[16:7:49] >> DirectX11 デバイス作成 : 成功
+[16:7:49] >> 乱数の初期化 : 成功
+[16:7:49] >> 入力クラスの初期化 : 成功
+[16:7:49] >> ウィンドウテキストの初期化 : 成功
+[16:7:49] >> Imguiの初期化 : 成功
+[16:7:49] >> Data\Sprite\Scene\Loading\LoadBase.png 読み込み : 成功
+[16:7:49] >> Data\Sprite\Scene\Loading\LoadText.png 読み込み : 成功
+[16:7:49] >> Data\Sprite\Scene\Loading\LoadDot.png 読み込み : 成功
+[16:7:49] >> Data\Sprite\Scene\Loading\LoadUFO.png 読み込み : 成功
+[16:7:49] >> ------ サウンド読み込み開始 -------
+[16:7:50] >> Data\Sound\BGM\12-13.mp3 読み込み : 成功
+[16:7:50] >> Data\Sound\BGM\13-15.mp3 読み込み : 成功
+[16:7:50] >> Data\Sound\BGM\15-18.mp3 読み込み : 成功
+[16:7:50] >> Data\Sound\BGM\18-21.mp3 読み込み : 成功
+[16:7:50] >> Data\Sound\BGM\GameClear.mp3 読み込み : 成功
+[16:7:50] >> Data\Sound\BGM\GameMain.mp3 読み込み : 成功
+[16:7:50] >> Data\Sound\BGM\GameOver.mp3 読み込み : 成功
+[16:7:50] >> Data\Sound\BGM\Title.mp3 読み込み : 成功
+[16:7:50] >> Data\Sound\SE\Damage.mp3 読み込み : 成功
+[16:7:51] >> Data\Sound\SE\HeavyAttack.mp3 読み込み : 成功
+[16:7:51] >> Data\Sound\SE\ImguiSE.mp3 読み込み : 成功
+[16:7:51] >> Data\Sound\SE\LvUp.mp3 読み込み : 成功
+[16:7:51] >> Data\Sound\SE\NoneAttack.mp3 読み込み : 成功
+[16:7:52] >> Data\Sound\SE\NormalAttack.mp3 読み込み : 成功
+[16:7:52] >> Data\Sound\SE\PlayerDamage.mp3 読み込み : 成功
+[16:7:53] >> Data\Sound\SE\ShieldAttack.mp3 読み込み : 成功
+[16:7:53] >> Data\Sound\SE\ShieldBreak.mp3 読み込み : 成功
+[16:7:53] >> Data\Sound\SE\ShieldLvDown.mp3 読み込み : 成功
+[16:7:53] >> Data\Sound\SE\WeakAttack.mp3 読み込み : 成功
+[16:7:53] >> ------ サウンド読み込み終了 -------
+[16:7:53] >> ------ スレッドロード開始 ------
+[16:7:53] >> ------ スプライト読み込み開始 ------
+[16:7:53] >> Data\Sprite\Collision\BoxColl2D.png 読み込み : 成功
+[16:7:53] >> Data\Sprite\Collision\PointColl2D.png 読み込み : 成功
+[16:7:53] >> Data\Sprite\Collision\SphereColl2D.png 読み込み : 成功
+[16:7:53] >> Data\Sprite\Effect\BulletDelete.png 読み込み : 成功
+[16:7:53] >> Data\Sprite\Effect\BulletLv1.png 読み込み : 成功
+[16:7:53] >> Data\Sprite\Effect\BulletLv2.png 読み込み : 成功
+[16:7:53] >> Data\Sprite\Effect\BulletLv3.png 読み込み : 成功
+[16:7:53] >> Data\Sprite\Effect\BulletLv4.png 読み込み : 成功
+[16:7:53] >> Data\Sprite\Effect\HeavyAttackEffect.png 読み込み : 成功
+[16:7:53] >> Data\Sprite\Effect\HeavyHitEffect.png 読み込み : 成功
+[16:7:53] >> Data\Sprite\Effect\NoneAttackEffect.png 読み込み : 成功
+[16:7:53] >> Data\Sprite\Effect\NormalAttackEffect.png 読み込み : 成功
+[16:7:53] >> Data\Sprite\Effect\NormalHitEffect.png 読み込み : 成功
+[16:7:53] >> Data\Sprite\Effect\Potion.png 読み込み : 成功
+[16:7:53] >> Data\Sprite\Effect\PowerUp.png 読み込み : 成功
+[16:7:53] >> Data\Sprite\Effect\ShieldLv1.png 読み込み : 成功
+[16:7:53] >> Data\Sprite\Effect\ShieldLv2.png 読み込み : 成功
+[16:7:53] >> Data\Sprite\Effect\ShieldLv3.png 読み込み : 成功
+[16:7:54] >> Data\Sprite\Effect\ShieldLv4.png 読み込み : 成功
+[16:7:54] >> Data\Sprite\Effect\StateDown.png 読み込み : 成功
+[16:7:54] >> Data\Sprite\Effect\StateUp.png 読み込み : 成功
+[16:7:54] >> Data\Sprite\Effect\WeakAttackEffect.png 読み込み : 成功
+[16:7:54] >> Data\Sprite\Effect\WeakHitEffect.png 読み込み : 成功
+[16:7:54] >> Data\Sprite\Fade\Fade.png 読み込み : 成功
+[16:7:54] >> Data\Sprite\Fade\UFO.png 読み込み : 成功
+[16:7:54] >> Data\Sprite\Mask\HpMask.png 読み込み : 成功
+[16:7:54] >> Data\Sprite\RoundShadow.png 読み込み : 成功
+[16:7:54] >> Data\Sprite\Scene\Edtor\BugButton.png 読み込み : 成功
+[16:7:54] >> Data\Sprite\Scene\Edtor\EdtorGrid.png 読み込み : 成功
+[16:7:54] >> Data\Sprite\Scene\Edtor\HitBox.png 読み込み : 成功
+[16:7:54] >> Data\Sprite\Scene\GameClear\GameClear.png 読み込み : 成功
+[16:7:54] >> Data\Sprite\Scene\GameMain\Back\Back.png 読み込み : 成功
+[16:7:54] >> Data\Sprite\Scene\GameMain\Back\Frame.png 読み込み : 成功
+[16:7:54] >> Data\Sprite\Scene\GameMain\Back\Signboard.png 読み込み : 成功
+[16:7:54] >> Data\Sprite\Scene\GameMain\Bullet\Bullet.png 読み込み : 成功
+[16:7:54] >> Data\Sprite\Scene\GameMain\Bullet\PotionBullet.png 読み込み : 成功
+[16:7:54] >> Data\Sprite\Scene\GameMain\Bullet\SpecialBullet.png 読み込み : 成功
+[16:7:54] >> Data\Sprite\Scene\GameMain\Enemy\Ghost.png 読み込み : 成功
+[16:7:54] >> Data\Sprite\Scene\GameMain\Gimmick\Barrel.png 読み込み : 成功
+[16:7:54] >> Data\Sprite\Scene\GameMain\Gimmick\BigDeadTree.png 読み込み : 成功
+[16:7:54] >> Data\Sprite\Scene\GameMain\Gimmick\BigGrass.png 読み込み : 成功
+[16:7:54] >> Data\Sprite\Scene\GameMain\Gimmick\BigTree.png 読み込み : 成功
+[16:7:54] >> Data\Sprite\Scene\GameMain\Gimmick\FallenTree.png 読み込み : 成功
+[16:7:54] >> Data\Sprite\Scene\GameMain\Gimmick\Ornaments.png 読み込み : 成功
+[16:7:54] >> Data\Sprite\Scene\GameMain\Gimmick\Pot.png 読み込み : 成功
+[16:7:54] >> Data\Sprite\Scene\GameMain\Gimmick\SmallGrass.png 読み込み : 成功
+[16:7:54] >> Data\Sprite\Scene\GameMain\Gimmick\SmallTree.png 読み込み : 成功
+[16:7:54] >> Data\Sprite\Scene\GameMain\Hp\HpBack.png 読み込み : 成功
+[16:7:54] >> Data\Sprite\Scene\GameMain\Hp\HpBar.png 読み込み : 成功
+[16:7:54] >> Data\Sprite\Scene\GameMain\Hp\HpBarFrame.png 読み込み : 成功
+[16:7:54] >> Data\Sprite\Scene\GameMain\Hp\HpFrame.png 読み込み : 成功
+[16:7:54] >> Data\Sprite\Scene\GameMain\Player\Player.png 読み込み : 成功
+[16:7:54] >> Data\Sprite\Scene\GameMain\Stamina\StaminaBack.png 読み込み : 成功
+[16:7:54] >> Data\Sprite\Scene\GameMain\Stamina\StaminaFrame.png 読み込み : 成功
+[16:7:55] >> Data\Sprite\Scene\GameMain\TimingBar\MoveIcon.png 読み込み : 成功
+[16:7:55] >> Data\Sprite\Scene\GameMain\TimingBar\TimingBar.png 読み込み : 成功
+[16:7:55] >> Data\Sprite\Scene\Loading\LoadBase.png 読み込み : 成功
+[16:7:55] >> Data\Sprite\Scene\Loading\LoadDot.png 読み込み : 成功
+[16:7:55] >> Data\Sprite\Scene\Loading\LoadText.png 読み込み : 成功
+[16:7:55] >> Data\Sprite\Scene\Loading\LoadUFO.png 読み込み : 成功
+[16:7:55] >> Data\Sprite\Scene\Title\Logo.png 読み込み : 成功
+[16:7:55] >> Data\Sprite\Scene\Title\TitleBack.png 読み込み : 成功
+[16:7:55] >> Data\Sprite\Scene\Title\TitleMoon.png 読み込み : 成功
+[16:7:55] >> Data\Sprite\WindowText\ascii.png 読み込み : 成功
+[16:7:55] >> ------ スプライト読み込み終了 ------
+[16:7:55] >> ------ エフェクト読み込み開始 ------
+[16:7:55] >> ------ エフェクト読み込み終了 ------
+[16:7:55] >> ------ フォント読み込み開始 ------
+[16:7:55] >> Data\Sprite\Font\NasuM.ttf 読み込み : 成功
+[16:7:55] >> Data\Sprite\Font\コーポレート・ロゴ ver2 Medium.otf 読み込み : 成功
+[16:7:55] >> ------ フォント読み込み終了 ------
+[16:7:55] >> ------ メッシュ読み込み開始 ------
+[16:7:55] >> Data\Mesh\Collision\Cylinder_c.x 読み込み : 成功
+[16:7:55] >> Data\Mesh\Collision\Sphere_c.x 読み込み : 成功
+[16:7:55] >> ------ メッシュ読み込み終了 ------
+[16:7:55] >> ------ スレッドロード終了 ------
+[16:7:55] >> ------ メインループ開始 ------
+[16:7:55] >> Data\Parameter\Constant\CameraFree.json 読み込み ： 成功
+[16:7:55] >> Data\Parameter\Constant\Stage.json 読み込み ： 成功
+[16:7:55] >> Data\Parameter\Constant\Player.json 読み込み ： 成功
+[16:7:55] >> Data\Parameter\Constant\Enemy.json 読み込み ： 成功
+[16:7:55] >> Data\Parameter\Constant\PotionArea.json 読み込み ： 成功
+[16:7:55] >> Data\Parameter\Constant\Bullet.json 読み込み ： 成功
+[16:7:55] >> Data\Parameter\Constant\BulletPowerUp.json 読み込み ： 成功
+[16:7:55] >> Data\Parameter\Constant\BulletSharp.json 読み込み ： 成功
+[16:7:55] >> Data\Parameter\Constant\BulletSpill.json 読み込み ： 成功
+[16:7:55] >> Data\Parameter\Constant\BulletBigPotion.json 読み込み ： 成功
+[16:7:55] >> ------ タイトルで使用する定数の読み込み開始 -------
+[16:7:55] >> ------ タイトルで使用する定数の読み込み終了 -------
+[16:7:55] >> ------ ゲームメインで使用する定数の読み込み開始 -------
+[16:7:55] >> Data\Parameter\Constant\CameraFree.json 読み込み ： 成功
+[16:7:55] >> Data\Parameter\Constant\Stage.json 読み込み ： 成功
+[16:7:55] >> Data\Parameter\Constant\Player.json 読み込み ： 成功
+[16:7:55] >> Data\Parameter\Constant\Enemy.json 読み込み ： 成功
+[16:7:55] >> Data\Parameter\Constant\PotionArea.json 読み込み ： 成功
+[16:7:55] >> Data\Parameter\Constant\Bullet.json 読み込み ： 成功
+[16:7:55] >> Data\Parameter\Constant\BulletPowerUp.json 読み込み ： 成功
+[16:7:55] >> Data\Parameter\Constant\BulletSharp.json 読み込み ： 成功
+[16:7:55] >> Data\Parameter\Constant\BulletSpill.json 読み込み ： 成功
+[16:7:55] >> Data\Parameter\Constant\BulletBigPotion.json 読み込み ： 成功
+[16:7:55] >> ------ ゲームメインで使用する定数の読み込み終了 -------
+[16:7:55] >> ------ エフェクト読み込み開始 ------
+[16:7:55] >> ------ エフェクト読み込み終了 ------
+[16:7:55] >> ------ エフェクト読み込み開始 ------
+[16:7:55] >> ------ エフェクト読み込み終了 ------
+[16:7:55] >> ------ エフェクト読み込み開始 ------
+[16:7:55] >> ------ エフェクト読み込み終了 ------
+[16:7:55] >> ------ エフェクト読み込み開始 ------
+[16:7:55] >> ------ エフェクト読み込み終了 ------
+[16:8:8] >> フォント「コーポレート・ロゴ ver2 Medium」の「1」テクスチャ作成 : 成功
+[16:8:24] >> フォント「コーポレート・ロゴ ver2 Medium」の「6」テクスチャ作成 : 成功
+[16:8:25] >> フォント「コーポレート・ロゴ ver2 Medium」の「5」テクスチャ作成 : 成功
+[16:8:55] >> フォント「コーポレート・ロゴ ver2 Medium」の「3」テクスチャ作成 : 成功
+[16:9:9] >> 「Sharp」の弾の情報がありません
